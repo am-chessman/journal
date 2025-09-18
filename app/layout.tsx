@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Proceedings of Preposterous Sciences",
-  description: "Collection of reaserch on peculiar subjects",
+  description: "An aggregation of research on peculiar phenomena",
 };
 
 export default function RootLayout({
